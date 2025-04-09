@@ -1,0 +1,55 @@
+.img {
+    border-radius: 200%;
+height: 150px;
+background: #000;
+}
+#pl {
+    color: cadetblue;
+    background: #000;
+}
+.name {
+    color: blue;
+}
+#has {
+    color: cornflowerblue;
+    background: black;
+}
+.op {
+    color: black;
+}
+.num {
+    color: cornflowerblue;
+    background: black;
+}
+.lo {
+    color: cornflowerblue;
+    background: #000;
+}
+.skill {
+    color: cornflowerblue;
+    background-color: #000;
+}
+.Father {
+    color: cornflowerblue;
+    background: #000;
+}
+.loc {
+    color: cornflowerblue;
+    background: #000;
+}
+.gg {
+    height: 10%;
+    width: 20%;
+}
+.edu {
+    color: cornflowerblue;
+    background-color: #000;
+}
+.po {
+    color: cornflowerblue;
+    background-color: #000;
+}
+.nic {
+    height: 10%;
+    width: 10%;
+}
